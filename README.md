@@ -3,9 +3,14 @@
 The Recipe Management System is a robust and user-friendly application designed to manage recipes efficiently. The system was developed using Object-Oriented Design (OOD) principles to ensure a scalable and maintainable architecture.
 
 Features
-Backend Development: Implemented using Java with the Model-View-Controller (MVC) pattern for clear code separation.
-User Interface: Constructed with Swing, utilizing layout managers for a responsive design and enhanced user experience.
-Database Integration: Utilized MySQL for relational data management and MongoDB for secure CRUD operations using prepared statements.
+Backend Development: 
+Implemented using Java with the Model-View-Controller (MVC) pattern for clear code separation.
+
+User Interface: 
+Constructed with Swing, utilizing layout managers for a responsive design and enhanced user experience.
+
+Database Integration: 
+Utilized MySQL for relational data management and MongoDB for secure CRUD operations using prepared statements.
 
 Key Highlights
 Designed a robust architecture using OOD principles.
